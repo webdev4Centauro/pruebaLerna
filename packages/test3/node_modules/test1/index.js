@@ -1,3 +1,3 @@
 // packages/test1/index.js
 
-module.exports = 'Test1';
+module.exports = 'Test1 v2';
